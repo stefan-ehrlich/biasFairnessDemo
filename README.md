@@ -14,5 +14,16 @@ cd biasFairnessDemo
 ```bash
 conda create -n biasEnv python=3.10
 conda activate biasEnv
+```
+
+#### 3. Abhängigkeiten installieren
+
+```bash
 pip install -r requirements.txt
+```
+
+#### 4. Notebook starten
+
+```bash
+jupyter notebook
 ```
