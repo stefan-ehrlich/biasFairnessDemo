@@ -52,6 +52,7 @@ biasFairnessDemo/
 ├── biasFairnessDemo.ipynb      # main notebook (bias & fairness analysis workflow)
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
